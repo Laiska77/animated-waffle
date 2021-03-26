@@ -10,5 +10,6 @@
 <body>
 <h1>Hi Everyone</h1>
 <%= LocalDate.now() %>
+<h2>Hope it works</h2>
 </body>
 </html>
