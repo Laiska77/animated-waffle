@@ -3,4 +3,5 @@
   <groupId>com.lti.code</groupId>
   <artifactId>maven-webapp2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 </project>
